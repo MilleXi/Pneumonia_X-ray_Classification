@@ -146,9 +146,9 @@ python main.py --mode visualize --checkpoint ./checkpoints/best_model.pth
 | EfficientNet | 76 | 79 | 76 | 77 | 85 |
 | ViT | 73 | 77 | 73 | 73 | 83 |
 | Swin Transformer |  81  | 82 | 81 | 81 | 91 |
-| 模型集成 | - | - | - | - | - |
+| 模型集成 | 87 | 88 | 87 | 87 | 95 |
 
-注：具体性能指标需在实际训练后填写。
+注：此处模型集成的是 ResNet50 与 EfficientNet
 
 ## 参考文献
 
